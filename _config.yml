@@ -23,6 +23,9 @@ encoding: "utf-8"
 # Conversion
 markdown: kramdown
 highlighter: rouge
+sass:
+  style: :compressed
+
 
 kramdown:
     input: GFM
