@@ -1,0 +1,24 @@
+{
+  "name": "v40.github.io",
+  "homepage": "http://v40.io",
+  "authors": [
+    "Kristian Rasmussen <me@v40.io>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": { 
+    "bootstrap": "~3.3.6"
+  }
+}

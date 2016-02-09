@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,8BAAmB,CAE3B,SAAW,CACT,MAAM,CAAE,IAAI,CAEd,IAAK,CACH,WAAW,CAAE,wBAAwB",
+"sources": ["../_sass/v40.scss"],
+"names": [],
+"file": "v40.css"
+}
