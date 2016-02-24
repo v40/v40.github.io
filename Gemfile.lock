@@ -124,6 +124,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate
+  jemoji
   sass
 
 BUNDLED WITH
