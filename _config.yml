@@ -21,7 +21,6 @@ kramdown:
 
 sass:
   style: :compressed
-gems:
-  - jemoji
-  - jekyll-mentions
+
+plugins:
   - jekyll-paginate

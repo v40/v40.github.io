@@ -1,6 +1,13 @@
 # v40.github.io
 The v40.io website
 
+# Start with
+
+```
+bundle exec jekyll serve
+```
+
+
 # Thoughts
 
 ```
